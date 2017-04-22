@@ -1,6 +1,7 @@
 ![alt tag](https://travis-ci.org/krynomore/chernika-server.svg?branch=master) Stable Release
 
 (chernika-server is no longer officially supported. Please feel free to fork, chop and change, use as reference)
+How ever i will be trying to matain this repo
 
 Some library dependencies
 ```bash
