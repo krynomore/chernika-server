@@ -1,3 +1,5 @@
+![alt tag](https://travis-ci.org/krynomore/chernika-server.svg?branch=master)
+
 (chernika-server is no longer officially supported. Please feel free to fork, chop and change, use as reference)
 
 Some library dependencies
