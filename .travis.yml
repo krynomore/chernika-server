@@ -1,5 +1,7 @@
 before_install:
   -  sudo apt-get install libcv-dev libhighgui-dev libopencv-contrib-dev libopencv-dev
+  - sudo npm install
+ 
 
 language: node_js
 node_js:
