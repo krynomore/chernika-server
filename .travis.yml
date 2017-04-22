@@ -1,11 +1,5 @@
-language:
-  - cpp
-
-compiler:
-  - gcc
-  
 before_install:
-  - sudo bash install_opencv.sh
+  -  sudo apt-get install libcv-dev libhighgui-dev libopencv-contrib-dev libopencv-dev
 
 language: node_js
 node_js:
